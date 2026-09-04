@@ -1,0 +1,32 @@
+mode = "dark"
+
+# Investiture: stormlight cyan over deep space, with violet and metallic gold.
+accent = "#67E8F9"
+selection = "#27364A"
+muted = "#66738B"
+
+background = "#0B1020"
+dark_background = "#070A13"
+darker_background = "#04060C"
+lighter_background = "#151D31"
+
+foreground = "#DCE7F5"
+dark_foreground = "#8795AB"
+light_foreground = "#B9C9DD"
+bright_foreground = "#F4F8FF"
+
+red = "#D75A67"
+yellow = "#D9B45B"
+orange = "#D9824B"
+green = "#72B894"
+cyan = "#67E8F9"
+blue = "#6EA8FE"
+magenta = "#AA78D1"
+brown = "#8B6650"
+
+bright_red = "#F07178"
+bright_yellow = "#F0CB74"
+bright_green = "#8BD5AA"
+bright_cyan = "#9BF3FF"
+bright_blue = "#91BCFF"
+bright_magenta = "#C79AEB"
