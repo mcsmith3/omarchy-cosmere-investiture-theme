@@ -8,6 +8,14 @@ violet, Scadrial ember, and metallic gold as supporting colors.
 
 ## Install
 
+Install papirus icon theme (not part of base Omarchy install):
+
+```sh
+omarchy pkg add papirus-icon-theme
+```
+
+Then install the theme:
+
 ```sh
 omarchy theme install https://github.com/mcsmith3/omarchy-cosmere-investiture-theme
 ```
@@ -28,7 +36,7 @@ omarchy theme bg next
 
 - Deep navy palette with cyan, violet, ember, and gold accents
 - Translucent Omarchy bar, launcher, menus, popups, and notifications
-- Matching icon-theme preference
+- Matching icon-theme preference (Papirus-Dark)
 - Ten original 1672×941 wallpapers inspired by Stormlight, Mistborn,
   Elantris, Warbreaker, Tress of the Emerald Sea, and The Sunlit Man
 
